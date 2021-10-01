@@ -1,0 +1,12 @@
+{
+  "name": "HomeWork",
+  "displayName": "HomeWork",
+  "expo": {
+    "name": "HomeWork",
+    "slug": "HomeWork",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
