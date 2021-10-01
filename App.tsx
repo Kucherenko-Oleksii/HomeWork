@@ -46,7 +46,7 @@ const styles = StyleSheet.create({
     color: 'tomato',
     justifyContent: 'space-between',
     textShadowOffset:{width: 3, height: 3},
-    textShadowColor:'black',
+    textShadowColor:'silver',
     textShadowRadius: 20
     
   },
